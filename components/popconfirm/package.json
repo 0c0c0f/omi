@@ -99,7 +99,7 @@
     "useTabs": false
   },
   "dependencies": {
-    "@omiu/button": "^0.0.8",
+    "@omiu/button": "^0.0.10",
     "@omiu/common": "latest",
     "@popperjs/core": "^2.9.2",
     "omi": "latest"
