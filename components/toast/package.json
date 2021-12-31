@@ -97,7 +97,7 @@
   "dependencies": {
     "@omiu/common": "latest",
     "@omiu/loading": "0.0.2",
-    "@omiu/transition": "^0.0.12",
+    "@omiu/transition": "^0.0.14",
     "omi": "latest"
   }
 }
