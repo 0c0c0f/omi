@@ -36,7 +36,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "chalk": "^1.1.3",
-    "commander": "^2.9.0",
+    "commander": "^2.20.3",
     "cross-npm-spawn": "^1.1.1",
     "cross-spawn": "^5.0.1",
     "empty-dir": "^0.2.1",
