@@ -2082,10 +2082,10 @@ object.getownpropertydescriptors@^2.0.3:
     define-properties "^1.1.3"
     es-abstract "^1.18.0-next.2"
 
-omi@latest:
-  version "6.19.10"
-  resolved "https://registry.npmjs.org/omi/-/omi-6.19.10.tgz"
-  integrity sha512-1tetvKWyTU+gfMtXJB3MyW73LH9SKda81PGYJOy0yTNRjEtgLRekVJuO93qXuHhUuXwBvDiizNI7iDT5anOc4Q==
+omi@6.23.0:
+  version "6.23.0"
+  resolved "https://registry.yarnpkg.com/omi/-/omi-6.23.0.tgz#a35ddaa1197659cb6d68098967c0f250a41cd6a4"
+  integrity sha512-9kNWLFT5nzAXr2VPlPl2RJpSGdFTFJINj1iEOtKhABZpXG90HShFW0zfaeh8qPEZDuEOJ8CeIq7VwhX7dZzEsw==
   dependencies:
     construct-style-sheets-polyfill "^3.0.0-0"
 

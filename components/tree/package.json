@@ -52,7 +52,7 @@
   "homepage": "http://omijs.org",
   "dependencies": {
     "@omiu/common": "latest",
-    "omi": "latest"
+    "omi": "6.23.0"
   },
   "devDependencies": {
     "@open-wc/testing": "^2.5.33",
