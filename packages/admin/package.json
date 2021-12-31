@@ -45,7 +45,7 @@
     "@omiu/popover": "^0.0.14",
     "@omiu/progress": "^0.0.3",
     "@omiu/radio": "^0.0.6",
-    "@omiu/rate": "^0.0.9",
+    "@omiu/rate": "^0.0.10",
     "@omiu/select": "^0.0.15",
     "@omiu/slider": "0.0.15",
     "@omiu/steps": "^0.0.5",
