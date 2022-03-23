@@ -14,7 +14,7 @@
   "dependencies": {
     "enquirer": "^2.3.6",
     "kolorist": "^1.5.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "shelljs": "^0.8.4"
   },
   "author": ""
