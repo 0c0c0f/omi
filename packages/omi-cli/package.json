@@ -46,10 +46,16 @@
     "validate-npm-package-name": "^3.0.0",
     "vinyl-fs": "^2.4.4",
     "webpack": "^2.3.3",
-    "which": "^1.2.14"
+    "which": "^1.2.14",
+    "@snyk/protect": "latest"
   },
   "bugs": {
     "url": "https://github.com/Tencent/omi/issues"
   },
-  "homepage": "https://github.com/Tencent/omi/tree/master/packages/omi-cli"
+  "homepage": "https://github.com/Tencent/omi/tree/master/packages/omi-cli",
+  "scripts": {
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
