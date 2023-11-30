@@ -54,7 +54,7 @@
     "@omiu/common": "latest",
     "@omiu/input": "0.0.12",
     "@omiu/tooltip": "0.0.1",
-    "@web/test-runner-puppeteer": "^0.10.1",
+    "@web/test-runner-puppeteer": "^0.12.1",
     "omi": "latest"
   },
   "devDependencies": {
