@@ -23,7 +23,7 @@
   "dependencies": {
     "@omiu/checkbox": "^0.0.13",
     "@omiu/common": "latest",
-    "@omiu/input": "^0.0.12",
+    "@omiu/input": "^0.0.14",
     "omi": "latest"
   },
   "devDependencies": {
