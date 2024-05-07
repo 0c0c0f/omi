@@ -21,7 +21,7 @@
     "types"
   ],
   "dependencies": {
-    "@omiu/checkbox": "^0.0.13",
+    "@omiu/checkbox": "^0.0.15",
     "@omiu/common": "latest",
     "@omiu/input": "^0.0.12",
     "omi": "latest"
