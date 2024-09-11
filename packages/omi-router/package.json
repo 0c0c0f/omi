@@ -81,6 +81,6 @@
     "useTabs": false
   },
   "dependencies": {
-    "path-to-regexp": "3.2.0"
+    "path-to-regexp": "8.0.0"
   }
 }
